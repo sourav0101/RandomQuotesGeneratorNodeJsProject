@@ -1,0 +1,24 @@
+Patterns in nature are visible regularities of form found in the natural world. 
+These patterns recur in different contexts and can sometimes be modelled mathematically. 
+Natural patterns include symmetries, trees, spirals, meanders, waves, foams, tessellations, 
+cracks and stripes.[1] Early Greek philosophers studied pattern, with Plato, Pythagoras and 
+Empedocles attempting to explain order in nature.The modern understanding of visible patterns 
+developed gradually over time.In the 19th century, the Belgian physicist Joseph Plateau 
+examined soap films, leading him to formulate the concept of a minimal surface. The German 
+biologist and artist Ernst Haeckel painted hundreds of marine organisms to emphasise their 
+symmetry. Scottish biologist D'Arcy Thompson pioneered the study of growth patterns in both 
+plants and animals, showing that simple equations could explain spiral growth. In the 20th 
+century, the British mathematician Alan Turing predicted mechanisms of morphogenesis which 
+give rise to patterns of spots and stripes. The Hungarian biologist Aristid Lindenmayer and 
+the French American mathematician Benoît Mandelbrot showed how the mathematics of fractals 
+could create plant growth patterns.Mathematics, physics and chemistry can explain patterns 
+in nature at different levels and scales. Patterns in living things are explained by the 
+biological processes of natural selection and sexual selection. Studies of pattern formation 
+make use of computer models to simulate a wide range of patterns.HistoryEarly Greek 
+philosophers attempted to explain order in nature, anticipating modern concepts. 
+Pythagoras (c. 570–c. 495 BC) explained patterns in nature like the harmonies of 
+as arising from number, which he took to be the basic constituent of existence.[a] 
+Empedocles (c. 494–c. 434 BC) to an extent anticipated Darwin's evolutionary explanation 
+for the structures of organisms.[b] Plato (c. 427–c. 347 BC) argued for the existence of 
+natural universals. He considered these to consist of ideal forms (εἶδος eidos: "form") 
+of which physical objects are never more than imperfect copies. Thus, a flower may be roughly circular, but it is never a perfect circle.[2] Theophrastus (c. 372–c. 287 BC) noted that plants "that have flat leaves have them in a regular series"; Pliny the Elder (23–79 AD) noted their patterned circular arrangement.[3] Centuries later, Leonardo da Vinci (1452–1519) noted the spiral arrangement of leaf patterns, that tree trunks gain successive rings as they age, and proposed a rule purportedly satisfied by the cross-sectional areas of tree-branches.[4][3]
