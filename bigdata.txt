@@ -1,6 +1,6 @@
 Patterns in nature are visible regularities of form found in the natural world. 
 These patterns recur in different contexts and can sometimes be modelled mathematically. 
-Natural patterns include symmetries, trees, spirals, meanders, waves, foams, tessellations, 
+Natural  patterns include symmetries, trees, spirals, meanders, waves, foams, tessellations, 
 cracks and stripes.[1] Early Greek philosophers studied pattern, with Plato, Pythagoras and 
 Empedocles attempting to explain order in nature.The modern understanding of visible patterns 
 developed gradually over time.In the 19th century, the Belgian physicist Joseph Plateau 
